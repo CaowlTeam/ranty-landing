@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 const projects = [
   {
     image:
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=90",
     title: "Mountain Retreat",
     location: "Aspen, Colorado",
     category: "Residential",
@@ -13,7 +13,7 @@ const projects = [
   },
   {
     image:
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=600&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1200&q=90",
     title: "Urban Minimalist",
     location: "Brooklyn, New York",
     category: "Modern Villa",
@@ -21,7 +21,7 @@ const projects = [
   },
   {
     image:
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=600&q=80",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1200&q=90",
     title: "Coastal Living",
     location: "Malibu, California",
     category: "Beach House",
@@ -29,7 +29,7 @@ const projects = [
   },
   {
     image:
-      "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=600&q=80",
+      "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=1200&q=90",
     title: "Contemporary Estate",
     location: "Austin, Texas",
     category: "Luxury Home",

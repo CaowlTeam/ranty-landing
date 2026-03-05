@@ -1,9 +1,3 @@
 [build]
   command = "npm run build"
   publish = "out"
-
-# SPA fallback: serve index.html for unknown paths
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200

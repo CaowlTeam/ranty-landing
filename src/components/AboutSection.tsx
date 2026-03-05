@@ -67,7 +67,7 @@ export default function AboutSection() {
             <div className="relative rounded-2xl lg:rounded-3xl overflow-hidden aspect-[4/5]">
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
-                src="https://images.unsplash.com/photo-1600607687644-aac4c3eac7f4?w=600&q=80"
+                src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=90"
                 alt="Modern home interior"
                 className="w-full h-full object-cover"
               />

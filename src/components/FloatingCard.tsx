@@ -26,8 +26,8 @@ export const tabContent: Record<
     ),
     description: "From blueprints to renders.",
     label: "Roomtour",
-    image: "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?w=200&q=80",
-    heroImage: "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?w=800&q=80",
+    image: "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?w=400&q=90",
+    heroImage: "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?w=1200&q=90",
     alt: "Interior room preview",
   },
   Design: {
@@ -40,8 +40,8 @@ export const tabContent: Record<
     ),
     description: "Every detail planned.",
     label: "Plans",
-    image: "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=200&q=80",
-    heroImage: "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800&q=80",
+    image: "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=400&q=90",
+    heroImage: "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=1200&q=90",
     alt: "Architectural design",
   },
   "3D": {
@@ -54,8 +54,8 @@ export const tabContent: Record<
     ),
     description: "Virtual walkthroughs.",
     label: "3D Tour",
-    image: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=200&q=80",
-    heroImage: "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80",
+    image: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=400&q=90",
+    heroImage: "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=1200&q=90",
     alt: "3D house render",
   },
 };
